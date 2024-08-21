@@ -20,7 +20,8 @@ Heute habe ich die verschiedenen gegeben Aufträge vom Modul 320 bearbeitet. Ich
 
 - [ ] Täglichen Aufträge erfüllen
 - [ ] Kleines Projekt zum Thema des Moduls 320
-- [ ] Elemente im code welche Klassen beinhalten 
+- [ ] Elemente im code welche Klassen beinhalten
+- [ ] Nutzung von private und public Klassen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
