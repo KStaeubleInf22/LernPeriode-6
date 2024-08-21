@@ -12,15 +12,15 @@ In diesem Semester, will ich versuchen keine Note unter einer 4.5 zu erhalten.
 
 2. Mein Focus für diese Lern-Periode ist es, an allen Modulen zu arbeiten und in Orten, wo ich langsam hinterher komme, ein bisschen hervor arbeiten. In diesen fünf lektionen pro woche kann ich viel Arbeit für die Module machen.
 
-## 20.2.2024
+## 21.8.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die verschiedenen gegeben Aufträge vom Modul 320 bearbeitet. Ich habe mit Auftrag 4202 angefangen und konnte diesen Auftrag relativ schnell beenden. Danach habe ich an Auftrag 4203 und 4204 gearbeitet welche für mich anspruchsvoller waren und länger gebraucht haben. Nachdem ich diese Aufträge fertig gestellt habe, hatte ich die Idee ein kleines spiel in C# zu machen, wie Abbas mit seinem Zauberer spiel. Mein Ziel ist es, dass ich es nächstes Mal anfangen kann.(77)
 
-## 27.2.2024
+## 28.8.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ]Täglichen Aufträge erfüllen
+- [ ]Kleines Projekt zum Thema des Moduls 320
+- [ ]Elemente welche Klassen beinhalten 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
