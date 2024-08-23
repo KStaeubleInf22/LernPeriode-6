@@ -16,12 +16,17 @@ In diesem Semester, will ich versuchen keine Note unter einer 4.5 zu erhalten.
 
 Heute habe ich die verschiedenen gegeben Aufträge vom Modul 320 bearbeitet. Ich habe mit Auftrag 4202 angefangen und konnte diesen Auftrag relativ schnell beenden. Danach habe ich an Auftrag 4203 und 4204 gearbeitet welche für mich anspruchsvoller waren und länger gebraucht haben. Nachdem ich diese Aufträge fertig gestellt habe, hatte ich die Idee ein kleines spiel in C# zu machen, wie Abbas mit seinem Zauberer spiel. Mein Ziel ist es, dass ich es nächstes Mal anfangen kann.(77)
 
-## 28.8.2024
-
+Nächstes mal:
 - [ ] Täglichen Aufträge erfüllen
 - [ ] Kleines Projekt zum Thema des Moduls 320
 - [ ] Elemente im code welche Klassen beinhalten
 - [ ] Nutzung von private und public Klassen
+
+## 23.8.2024
+
+Heute habe ich am Modul 322 gearbeitet. Ich habe den Auftrag, denn ich am Donnerstag nicht fertig machen konnte fertig gestellt. Nachdem ich das fertig hatte, habe ich am Modul 231 gearbeitet, damit ich alle Aufträge fertig hatte, die ich fertig haben musste. Schlussendlich habe ich noch am Modul 320 arbeiten aber konnte nicht viel fortschritt machen beim kleinen Projekt.(60)
+
+## 28.8.2024
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
