@@ -24,21 +24,30 @@ Nächstes mal:
 
 ## 23.8.2024
 
-Heute habe ich am Modul 322 gearbeitet. Ich habe den Auftrag, denn ich am Donnerstag nicht fertig machen konnte fertig gestellt. Nachdem ich das fertig hatte, habe ich am Modul 231 gearbeitet, damit ich alle Aufträge fertig hatte, die ich fertig haben musste. Schlussendlich habe ich noch am Modul 320 arbeiten aber konnte nicht viel fortschritt machen beim kleinen Projekt.(60)
+Heute habe ich am Modul 322 gearbeitet. Ich habe den Auftrag, denn ich am Donnerstag nicht fertig machen konnte fertig gestellt. Nachdem ich das fertig hatte, habe ich am Modul 231 gearbeitet, damit ich alle Aufträge fertig hatte, die ich fertig haben musste. Schlussendlich habe ich noch am Modul 320 arbeiten aber konnte nicht viel fortschritt machen beim kleinen Projekt. (60)
 
-## 28.8.2024
+## 30.8.2024
+
+- [X] Täglichen Aufträge erfüllen
+- [X] Kleines Projekt zum Thema des Moduls 320
+- [X] Elemente im code welche Klassen beinhalten
+- [X] Nutzung von private und public Klassen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |übrige unerfüllte Aufträge in den Modulen|Erfèllung von Aufträgen|keine unnerfüllte Aufträge im Modul|Ja|
+| 2             |Ich möchte mein wissen im Modul 320 verbessern|Erstellung von einen Visual Studio Projekt|übung fürs Modul|Ja|
+| 3             |Ich möchte Aspekte vom Modul 320 einbauen|Implementation von Klassen|Das Projekt enthàlt Klassen|Ja|
+| 4             |Ich möchte Private und Public Klassen haben|Definierung von Klassen|Klassen haben jetzt spezifische sichtbarkeit|Ja|
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich damit angefangen, am Modul 322 zu arbeiten. Ich hatte noch einen kleinen Auftrag und wollte den schnell fertigstellen. Nachdem ich das hatte, habe ich damit angefangen, mein 320 Projekt weiterzuführen. Ich konnte Sachen wie Klassen einfügen und ihre Sichtbarkeit definiert. Nebenbei habe ich generell am Modul 320 gearbeitet und Aufträge erfüllt, die ich noch nicht fertig hatte. (60)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+## 6.9.2024
 
-
+- [ ] Täglichen Aufträge erfüllen
+- [ ] Spezielle funktionien definieren für die Klassen
+- [ ] Nutzung von Konstruktoren
+- [ ] Methoden einbauen
 
 ## Reflexion
 
