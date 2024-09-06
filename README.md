@@ -44,10 +44,19 @@ Heute habe ich damit angefangen, am Modul 322 zu arbeiten. Ich hatte noch einen 
 
 ## 6.9.2024
 
-- [ ] Täglichen Aufträge erfüllen
-- [ ] Spezielle funktionien definieren für die Klassen
+- [X] Täglichen Aufträge erfüllen
+- [X] Spezielle funktionien definieren für die Klassen
 - [ ] Nutzung von Konstruktoren
 - [ ] Methoden einbauen
+
+Ich habe den heutigen Tag damit angefangen, indem ich den Promillenrechner fertiggestellt habe, weil ich es nicht am Mittwoch fertig machen konnte. Nachdem ich das fertig gemacht habe, habe ich ein bisschen am Modul 322 gearbeitet, bevor ich dann angefangen habe an meinem Projekt wieder zu arbeiten. Ich konnte leicht vorschritt machen, aber nicht zu viel, da ich mich auch für den Test heute Nachmittag vorbereiten musste. (67)
+
+## 13.9.2024
+
+- [ ] unfertige Aufträge erfüllen
+- [ ] Nutzung von Konstruktoren
+- [ ] Methoden einbauen
+- [ ] Test vorbereitung
 
 ## Reflexion
 
