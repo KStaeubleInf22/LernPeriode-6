@@ -53,6 +53,15 @@ Ich habe den heutigen Tag damit angefangen, indem ich den Promillenrechner ferti
 
 ## 13.9.2024
 
+- [X] unfertige Aufträge erfüllen
+- [ ] Nutzung von Konstruktoren
+- [ ] Methoden einbauen
+- [X] Test vorbereitung
+
+Heute habe ich an meiner Arbeit vom Modul 320 gearbeitet. Ich habe den Auftrag 4208 erarbeitet und fertig gestellt. Danach habe ich noch 4210 erarbeitet und fertig gestellt. Nachdem ich die Aufgaben vom Modul 320 fertig hatte, habe ich damit angefangen, mich für den Französisch- und Mathetest nächste Woche vorzubereiten. (50) 
+
+## 20.9.2024
+
 - [ ] unfertige Aufträge erfüllen
 - [ ] Nutzung von Konstruktoren
 - [ ] Methoden einbauen
