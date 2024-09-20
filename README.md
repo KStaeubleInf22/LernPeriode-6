@@ -67,6 +67,8 @@ Heute habe ich an meiner Arbeit vom Modul 320 gearbeitet. Ich habe den Auftrag 4
 - [ ] Methoden einbauen
 - [ ] Test vorbereitung
 
+Heute habe ich an der OBA für das Modul 320 gearbeitet. Ich habe zuerst alle Klassen erschaffen und mit "Die" angefangen die Variablen zu erstellen. Ich konnte die Variablen ziemlich gut und schnell erarbeitet aber musste leicht die Variablen und Relationen ändern weil ich die Angaben übersehen habe. nachdem habe ich noch die anderen Klassen erarbeitet was nicht Relations basiert war. (61)
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
